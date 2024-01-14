@@ -1,0 +1,34 @@
+** Grub2Win Version 2.3.8.1   System Hardware Information
+
+The OS Is 	Windows 11      Build 22631
+
+Windows Boot	Drive C:	Disk  0  Partition  4
+
+Processor	64 Bit	3 Thread Intel(R) Core(TM) i7-7700T CPU @ 2.90GHz
+
+Memory   	4 GB	4,277,866,496 Bytes
+
+Firmware Mode Is EFI-64      	Secure Boot Is Enabled       EFI Level Is Unknown
+
+** This Machine Appears To Be Running Under VirtualBox **
+
+	                         	
+Current As Of	Saturday  December 16, 2023  at  20:02:29
+
+ZULU          	Saturday  December 16, 2023  at  19:02:29
+
+New York Time 	Saturday  December 16, 2023  at  2:02:29 PM
+
+Time Zone     	Europe/Zurich   ( +1:00 )
+
+Gen Stamp     	2023 - 1215 - 102410      Build 1632   ** Yesterday **
+
+Install Date  	                                          	Updated 
+
+Boot Time     	Saturday December 16, 2023 at 7:55:42 PM  	Uptime is 6 Minutes 17 Seconds
+
+The Windows system language is English   0409		User name is user
+
+IP Address	83.78.248.48    				GNU Grub Version 2.12 rc1
+
+Total Init Time 0.7 Second     Disk Scan 0.2 Second       BCD Count 2  Average Time 0.2 Second       Zulu Load 0.02 Second     Internet Conn 0.1 Second

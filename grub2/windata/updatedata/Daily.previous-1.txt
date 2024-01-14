@@ -1,0 +1,7 @@
+			New York Time  Sunday  December 17, 2023  at  2:01:16 PMSystem    WindowsVersion	Windows 11    WindowsBuild	22631    FirmwareMode	EFI    CPUBits		64    OSBits		64    Memory		4 GB    BIOSDate		    CPU			Intel(R) Core(TM) i7-7700T CPU @ 2.90GHz    GUID		C423BB53-3BCE-485C-BBD8-90F66E3943F8    Parms		Grub2WinGrub    Grub2WinReleaseCurr		2.3.8.1   Build 1632      December 15, 2023           2460294	2 Days Ago    Grub2GenStamp		2023 - 1215 - 102410      Build 1632    InstallDate			2460295-141926 - Saturday December 16, 2023 at 2:19:26 PM     ** Yesterday **    UseCount			14    LastUsed  ** Yesterday **Geo    Location		Buttwil,	Aargau,	Switzerland	    Buttwil Time      	Sunday  December 17, 2023  at  8:01:16 PM    ZULU 		Sunday  December 17, 2023  at  7:01:16 PM    New York Time	Sunday  December 17, 2023  at  2:01:16 PM    Time Zone		Europe/Zurich ( +1:00 )		Language  English	IP Address  83.78.248.48	 User ID  user    Total Init Time 1.6 Second     Disk Scan 0.1 Second       BCD Time 0.3 Second       Zulu Load 0.03 Second     Internet Conn 0.2 Second****************************************************************************************************
+
+	Sunday  December 17, 2023  at  2:00:09 PM    
+
+	Grub2Win Total Init		1 Second
+
+****************************************************************************************************

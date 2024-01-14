@@ -1,0 +1,36 @@
+
+  The Command Is - bcdedit /v
+
+
+Windows Boot Manager
+--------------------
+identifier              {9dea862c-5cdd-4e70-acc1-f32b344d4795}
+device                  partition=M:
+path                    \efi\grub2win\g2bootmgr\gnugrub.kernel64.efi
+description             Grub2Win EFI - 64 Bit
+locale                  en-US
+inherit                 {7ea2e1ac-2e61-4728-aaa3-896d9d0a9f0e}
+default                 {c7d987ba-9d55-11ee-80f8-9238fe271836}
+resumeobject            {c7d987b9-9d55-11ee-80f8-9238fe271836}
+displayorder            {c7d987ba-9d55-11ee-80f8-9238fe271836}
+toolsdisplayorder       {b2721d73-1db4-4c62-bf78-c548a880142d}
+timeout                 30
+
+Windows Boot Loader
+-------------------
+identifier              {c7d987ba-9d55-11ee-80f8-9238fe271836}
+device                  partition=C:
+path                    \Windows\system32\winload.efi
+description             Windows 11
+locale                  en-US
+inherit                 {6efb52bf-1766-41db-a6b3-0ee5eff72bd7}
+recoverysequence        {c7d987bb-9d55-11ee-80f8-9238fe271836}
+displaymessageoverride  Recovery
+recoveryenabled         Yes
+isolatedcontext         Yes
+allowedinmemorysettings 0x15000075
+osdevice                partition=C:
+systemroot              \Windows
+resumeobject            {c7d987b9-9d55-11ee-80f8-9238fe271836}
+nx                      OptIn
+bootmenupolicy          Standard

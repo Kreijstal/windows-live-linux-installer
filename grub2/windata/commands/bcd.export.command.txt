@@ -1,0 +1,4 @@
+
+  The Command Is - bcdedit /export C:\grub2\windata\backups\bcds\winbcd.backup.bcd
+
+The operation completed successfully.

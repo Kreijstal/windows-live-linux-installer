@@ -1,0 +1,23 @@
+
+	Disk and Partition List as of Saturday  December 16, 2023  at  9:23:09 PM			Disk Scan 0.8 Second
+****************************************************************************************************************************
+Disk 0      Style GPT   Sector 512        Size 200 GB       Used 132 GB  65.8%       Free 68 GB     VBOX HARDDISK                          
+
+Partition 1    Windows Recovery                         FS NTFS       Size 300 MB                   
+Partition 2    ** Windows EFI  **         Letter M:*    FS FAT32      Size 100 MB    33% Full       Label = EFI    
+UUID = 20AA-F20C
+Partition 3    Microsoft Reserved                                     Size 128 MB                   
+Partition 4    ** Windows Boot **         Letter C:     FS NTFS       Size 102 GB    26% Full       Label = Windows    
+Partition 5    ** Invalid EFI **          Letter F:     FS FAT32      Size  29 GB    20% Full       Label = INSTALL    
+UUID = 42D3-F1C9
+** Unallocated Space **                                               Size  68 GB
+****************************************************************************************************************************
+
+                                                    Drive Types       
+                                                GPT                 1
+                                                Total Drives        1
+
+                                                    Partition Types   
+                                                Windows             4
+                                                EFI                 1
+                                                Total Partitions    5
